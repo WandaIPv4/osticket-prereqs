@@ -34,9 +34,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install Web Server 
-Go to start menu > control panel > programs > turn window features on or off > check off internet information services.
-Also install World Wide Services > Application Development Features > Check off CGI
+Install Web Server (IIS - Internet Information Services)
+</p> Go to start menu > control panel > programs > turn window features on or off > check off internet information services.</p>
+Also install World Wide Services > Application Development Features > Check off CGI (now FastCGI)
 </p>
 <br />
 
@@ -44,10 +44,10 @@ Also install World Wide Services > Application Development Features > Check off 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install PHP Manager from website.
-Install Rewrite Module from website. 
-Then creaate directory on C drive called PHP
-unzip PHP 7.3.8 and extract files into PHP folder
+</p> Install PHP Manager from website.
+</p> Install Rewrite Module from website. 
+</p> Then creaate directory on C drive called PHP
+</p> Unzip PHP 7.3.8 and extract files into PHP folder
 </p>
 <br />
 
@@ -55,20 +55,20 @@ unzip PHP 7.3.8 and extract files into PHP folder
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install Microsoft Visual C++ 
-Install MySQL make sure to select typical set up & standard configuration. 
-Open IIS as an Admin and Register PHP from within IIS and Reload IIS
-Install osTicket v1.15.8 by unzipping file. 
-Once everything is extracted, open the osTicket file and copy the upload folder into “c:\inetpub\wwwroot” 
-Make sure to rename upload to "osTicket" and reload IIS 
-
+</p> Install Microsoft Visual C++ 
+</p> Install MySQL make sure to select typical set up & standard configuration. 
+</p> Open IIS as an Admin and Register PHP from within IIS and Reload IIS
+</p> Install osTicket v1.15.8 by unzipping file. 
+</p> Once everything is extracted, open the osTicket file and copy the upload folder into “c:\inetpub\wwwroot” 
+</p> Make sure to rename upload to "osTicket" and reload IIS </p> 
+</p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
-In IIS, go to sites > Default > osTicket and double click PHP manager to enable or disable an extension. 
-You can check the osTicket website to confirm its working properly. Go to sites > default web site > os ticket and 
-click Browse on the right side of window.
+</p> In IIS, go to sites > Default > osTicket and double click PHP manager to enable or disable an extension. 
+</p> You can check the osTicket website to confirm its working properly. Go to sites > default web site > os ticket and 
+</p> click Browse on the right side of window.
 </p>
 <br />
 
@@ -78,9 +78,9 @@ click Browse on the right side of window.
 <p>
 Rename: ost-config.php > From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
-Assign permissions: ost-config.php
-Continue Setting up osTicket in the browser (click Continue)
-Install HeidiSQL and continue setting up osTicket in the browser
+</p> Assign permissions: ost-config.php
+</p> Continue Setting up osTicket in the browser (click Continue)
+</p> Install HeidiSQL and continue setting up osTicket in the browser
 
 </p>
 <br />
