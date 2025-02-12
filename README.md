@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Install/Enable IIS with CGI
+- Web Server: Install/Enable IIS with CGI 
 - PHP Manager 
 - Rewrite Module
 - Microsoft Visual C
-- MySQL 
+- Database Server: MySQL 
 
 <h2>Installation Steps</h2>
 
