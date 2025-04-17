@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/f88de36b-48f8-4fd8-a320-37005fc9ab5c
 </p><img width="400" alt="Image 10 - Install osTicket by extracting file" src="https://github.com/user-attachments/assets/ca59c5b8-3906-4fc4-aeca-ef880e1d3bfa" />
 
 <img width="350" alt="Image 11 - Open osTicket file and copy the upload folder into wwwroot" src="https://github.com/user-attachments/assets/42afebe4-9a9f-427b-bbba-1c2d3c0a01ce" />
-<img width="400" alt="Image 12 - Rename upload to  osTicket" src="https://github.com/user-attachments/assets/8859ef8e-3ec6-4950-847c-04926b277e12" />
+<img width="200" alt="Image 12 - Rename upload to  osTicket" src="https://github.com/user-attachments/assets/8859ef8e-3ec6-4950-847c-04926b277e12" />
 
 
 
